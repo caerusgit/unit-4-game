@@ -1,0 +1,31 @@
+
+
+
+
+
+.crystal-image {
+    width: 120px;
+    height: 120px;
+}
+
+
+
+#losses {
+    color: red;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+
+#wins{
+    color: green;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+
+#totalScore {
+    color: grey;
+    font-weight: 900;
+    font-size: xx-large;
+}
